@@ -1,2 +1,2 @@
 # Description
-Those are the RetroArch cores that Emulair is currently using.
+Those are the Libretro cores that Emulair is currently using.
